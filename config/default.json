@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb://localhost/vidly",
+  "db": "mongodb+srv://vidly_user:dnHuIMjZeYYriMcz@cluster0.xquc3.mongodb.net/vidly_db?retryWrites=true&w=majority",
   "port": "3900",
   "requiresAuth": true
 }
